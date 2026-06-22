@@ -9,6 +9,16 @@ Basically, a basic pattern based lock system.
 
 ---
 
+## Project Images
+
+### Real Hardware Setup
+![Hardware Setup](Realistic%20Circuit%20Setup.png)
+
+### Circuit Diagram
+![Circuit Diagram](Circuit%20Illustration.png)
+
+---
+
 ## How it works
 
 - You press a button to start recording a pattern  
